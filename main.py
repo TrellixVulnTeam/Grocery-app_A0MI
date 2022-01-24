@@ -85,7 +85,7 @@ Enter 'HELP' for this help
 ENTER 'LIST' to see everything in the cart so far"""
 )
 
-    print("What do you need to buy")
+    print(What do you need to buy")
     print("""
 Enter 'DONE' to stop adding items
 Enter 'HELP' for this help
